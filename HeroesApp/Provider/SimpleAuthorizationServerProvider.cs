@@ -7,7 +7,7 @@ using System.Security.Claims;
 using System.Threading.Tasks;
 using System.Web;
 
-namespace RemitAndBudgetAngularJS22.Provider
+namespace HeroesApp.Provider
 {
     public class SimpleAuthorizationServerProvider: OAuthAuthorizationServerProvider
     {

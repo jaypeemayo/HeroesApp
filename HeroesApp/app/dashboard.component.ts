@@ -9,10 +9,8 @@ import { Router } from '@angular/router';
     moduleId: module.id,
     selector: "my-dashboard",
     templateUrl: "dashboard.component.html",
+    styleUrls: ["dashboard.component.css"],
     providers: [HeroService]
-    
-    
-
 })
 export class DashboardComponent {
 

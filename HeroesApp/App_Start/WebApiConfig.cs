@@ -5,7 +5,7 @@ using System.Linq;
 using System.Net.Http.Formatting;
 using System.Web.Http;
 
-namespace RemitAndBudgetAngularJS22
+namespace HeroesApp
 {
     public static class WebApiConfig
     {

@@ -4,11 +4,11 @@ using Microsoft.Owin;
 using Owin;
 using System.Web.Http;
 using Microsoft.Owin.Security.OAuth;
-using RemitAndBudgetAngularJS22.Provider;
+using HeroesApp.Provider;
 
-[assembly: OwinStartup(typeof(RemitAndBudgetAngularJS22.Startup))]
+[assembly: OwinStartup(typeof(HeroesApp.Startup))]
 
-namespace RemitAndBudgetAngularJS22
+namespace HeroesApp
 {
     public class Startup
     {

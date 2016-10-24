@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNet.Identity;
-using RemitAndBudgetAngularJS22.Models;
+using HeroesApp.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,7 +8,7 @@ using System.Net.Http;
 using System.Threading.Tasks;
 using System.Web.Http;
 
-namespace RemitAndBudgetAngularJS22.Controllers
+namespace HeroesApp.Controllers
 {
     public class AccountController : ApiController
     {

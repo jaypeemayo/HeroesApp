@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace RemitAndBudgetAngularJS22
+namespace HeroesApp
 {
     public class AuthContext : IdentityDbContext<IdentityUser>
     {

@@ -1,13 +1,13 @@
 ﻿using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
-using RemitAndBudgetAngularJS22.Models;
+using HeroesApp.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Web;
 
-namespace RemitAndBudgetAngularJS22
+namespace HeroesApp
 {
     public class AuthRepository: IDisposable
     {
